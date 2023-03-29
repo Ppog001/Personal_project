@@ -402,6 +402,42 @@ footer p a:hover {
         margin-top: 12px;
         padding-left: 35px;
     }
+
+    #head2 {
+        padding-left: 13px;
+    }
+
+    #par2 {
+        padding-right: 25px;
+        margin-left: 1px;
+    }
+
+    #third {
+        padding-left: 0px;
+    }
+
+    #head3 {
+        padding-left: 15px;
+    }
+
+    #par3 {
+        margin-left: 1px;
+        padding-right: 20px;
+    }
+
+    #fourth img{
+        margin-right: 45px;
+    }
+
+    #head4 {
+        margin-left: -10px;
+    }
+
+    #par4 {
+        margin-left: 10px;
+        margin-right: 150px;
+        padding-right: 10px;
+    }
     
     .grid2-content-text p {
         font-size: 14px;
@@ -558,7 +594,7 @@ footer p a:hover {
     
     footer p {
         position: absolute;
-        top: 4950px;
+        top: 5050px;
         left: 20px;
         font-size: 14px;
     }
